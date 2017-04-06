@@ -21,6 +21,8 @@
 
 3.2 - Getting the first size out of loop and resizing all pizzas
 
+4 - image of the pizzeria resized for specific view and size of the place, reducing the view weight.
+
 ### Portfolio Optimizations
 
 1 - Adjusted all images of the project to right size
@@ -28,6 +30,8 @@
 2 - Utilized to added control of the browser cache deflate in .htaccess file
 
 3 - Added asynchronous JavaScript
+
+4 - image of the pizzeria resized for specific view and size of the place, reducing the view weight.
 
 ### Run Application
 
