@@ -23,6 +23,8 @@
 
 4 - image of the pizzeria resized for specific view and size of the place, reducing the view weight.
 
+5 - Inline the CSS.
+
 ### Portfolio Optimizations
 
 1 - Adjusted all images of the project to right size
@@ -32,6 +34,8 @@
 3 - Added asynchronous JavaScript
 
 4 - image of the pizzeria resized for specific view and size of the place, reducing the view weight.
+
+5 - Inline the CSS.
 
 ### Run Application
 
